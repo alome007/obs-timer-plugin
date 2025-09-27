@@ -34,7 +34,12 @@ if(ENABLE_QT)
   )
 endif()
 
-target_include_directories(${CMAKE_PROJECT_NAME} PRIVATE ${CMAKE_SOURCE_DIR}/lib ${CMAKE_SOURCE_DIR}/src)
+target_include_directories(${CMAKE_PROJECT_NAME} PRIVATE
+  ${CMAKE_SOURCE_DIR}/lib
+  ${CMAKE_SOURCE_DIR}/src
+  ${CMAKE_CURRENT_SOURCE_DIR}/lib
+  ${CMAKE_CURRENT_SOURCE_DIR}/src
+)
 
 # Link plugin-support if it exists
 if(TARGET plugin-support)
