@@ -1,5 +1,6 @@
-# OBS Countdown Timers Plugin
+# THIS IS A CLONE OF THE ORIGINAL PLUGIN WITH SOME MODIFICATIONS
 
+### OBS Countdown Timers Plugin
 <p align="center">
 <image height="400px" src="/images/screenshot-version2.png">
 </p>
