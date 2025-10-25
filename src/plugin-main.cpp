@@ -21,7 +21,7 @@ with this program. If not, see <https://www.gnu.org/licenses/>
 #include "plugin-support.h"
 
 OBS_DECLARE_MODULE()
-OBS_MODULE_AUTHOR("Ashmanix")
+OBS_MODULE_AUTHOR("Ashmanix (Modified by Daniel Alome and the Media Team at CCI Egbeda)")
 OBS_MODULE_USE_DEFAULT_LOCALE(PLUGIN_NAME, "en-GB")
 
 static QPointer<CountdownDockWidget> countdownWidget = nullptr;
