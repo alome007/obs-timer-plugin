@@ -1,4 +1,4 @@
-# THIS IS A CLONE OF THE ORIGINAL PLUGIN WITH SOME MODIFICATIONS
+# THIS IS A CLONE OF THE ORIGINAL [PLUGIN](https://github.com/ashmanix/obs-plugin-countdown) WITH SOME MODIFICATIONS
 
 ### OBS Countdown Timers Plugin
 <p align="center">
